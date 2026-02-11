@@ -19,3 +19,5 @@ Minecraft is used as a visual test environment.
 ## Notes
 This is a hobby project and not meant to be perfect or production ready.
 
+
+![Uploading Animation-bot.gif…]()
